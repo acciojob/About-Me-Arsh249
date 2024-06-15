@@ -1,1 +1,18 @@
+body{
+	display:flex;
+	gap:10px
+}
+img{
+	width:150px;
+}
+.c1{
+	display:flex;
+	gap:30px
+}
 
+.skills{
+	width:50%;
+}
+.about{ 
+	width:50%;
+}
